@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+nowplaying_config.json
+.venv/
